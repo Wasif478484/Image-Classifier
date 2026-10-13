@@ -1,0 +1,14 @@
+﻿.venv/
+venv/
+__pycache__/
+*.pyc
+.vscode/
+.gradio/
+flagged/
+.env
+.ipynb_checkpoints/
+*.pt
+*.pth
+*.safetensors
+.cache/
+.DS_Store
